@@ -107,11 +107,11 @@ const Input = styled.TextInput`
 `;
 
 const BookItem = styled.View`
-  
+  flex: 1;
 `;
 
 const BookInfo = styled.View`
-padding: 15px;
+  padding: 15px;
   border-bottom-color: #eeeeee;
   background-color: #ffffff;
   margin-bottom: 10px;
